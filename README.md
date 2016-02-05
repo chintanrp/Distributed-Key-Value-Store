@@ -1,2 +1,4 @@
 # Distributed-Key-Value-Store
-Distributed Key-Value Store with comparison of other related systems
+Implemented Distributed key-value store in java.
+
+Compared developed system with other related systems - DyanamoDB, HBase, Cassandra and Redis on Amazon AWS cluster.
